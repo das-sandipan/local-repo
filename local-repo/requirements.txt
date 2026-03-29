@@ -5,4 +5,4 @@ langchain_openai
 langchain_google_genai
 langgraph
 youtube-search-python
-youtube-search  
+youtube-search
